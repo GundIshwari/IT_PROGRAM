@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Student detail</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main1.css'>
+    
+</head>
+<body>
+    <label class="from-label">Student NAme:</label>
+    <input required class="form-control" id="name" type="text" name="name" placeholder="Enter Your NAme"><br>
+    <label class="from-label">Roll No:</label>
+    <input required class="form-control" id="roll" type="number" name="roll" placeholder="Enter Your Roll No."><br>
+    <label class="from-label">Email:</label>
+    <input required class="form-control" id="email" type="text" name="email" placeholder="Enter Your Email"><br>
+
+    <button type="submit" onclick="add_data()" id="submit">Add</button>
+
+    <table id="display">
+        <tr>
+            <th>name</th>
+            <th>roll</th>
+            <th>email</th>
+            
+        </tr>
+    </table>
+    
+    <script src="main1.js"></script>
+
+</body>
+</html>

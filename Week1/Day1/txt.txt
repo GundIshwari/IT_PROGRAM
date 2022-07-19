@@ -1,0 +1,11 @@
+1.0 Introduction of CWIPEDIA company and satff
+
+2.0 They explain us their Agenda 
+
+3.0 They give us the information of gitthup and Linkdin
+
+4.0 Explain ius the installation of Linkdin and Github
+
+5.0 Explain the basic concepts of software SDLC,git,github
+
+6.0 Teach some commonds of git 

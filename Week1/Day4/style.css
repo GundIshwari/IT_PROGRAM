@@ -1,0 +1,23 @@
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScjLEEEKh3niD1espK8sdJmAnVvwYBkC3z1w&usqp=CAU");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h3{
+    color:yellow
+}
+#name{
+    color: crimson;
+}
+@media (min-width: 568px){
+    #name{
+        color: blue;
+    }
+}
+
+.temp{
+    height: 200px;
+    background-color:pink;
+    margin: 50px;
+}
